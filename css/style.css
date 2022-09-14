@@ -1,0 +1,171 @@
+
+/* &display=swap&subset=cyrillic-ext */
+@import url(https://fonts.googleapis.com/css?family=Roboto:regular,700,900,&display=swap);
+/* обнуление стилей */
+*,
+*::before,
+*::after {
+	margin: 0;
+	padding: 0;
+	border: 0;
+	box-sizing: border-box;
+}
+li {list-style: none;
+}
+a,
+a:visited {text-decoration: none;
+}
+a:hover {text-decoration: none;
+}
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+	font-weight: inherit;
+	font-size: inherit;
+}
+img {
+	vertical-align: top;
+}
+html,
+body{
+	height: 100%;
+}
+html{
+font-size: 16px;
+}
+body{
+	line-height: 1;
+	font-family: "Roboto";
+	color: #4B4B4B;
+	background: #F5F5F5;
+	
+}
+.wrapper{
+	min-height: 100%;
+	overflow: hidden;
+
+}
+/* .............................................. */
+.our-impact_margin-auto{
+margin: 100px auto;
+}
+
+.our-impact { background:url("../img/nemo/Blob\ 2.png") 80% 0 no-repeat, #29C3BE;
+	padding: 112px 0px 212px 14%;
+
+}
+.our-impact__body {display: inline-block;
+	max-width: 411px;
+	margin: 0px 111px 79px 0px;
+
+
+}
+.our-impact__title {
+font-size: 12px;
+line-height: 2;
+letter-spacing: 2.5px;
+text-transform: uppercase;
+color: #FFFFFF;
+background: url("../img/nemo/Overline\ Mark.svg") 0 0 no-repeat;
+padding: 0px 0px 0px 33px;
+margin: 0px 0px 31.77px 0px;
+max-width: 294px;
+}
+.our-impact__sub-title {
+font-size: 36px;
+line-height: 1.17;
+color: #FFFFFF;
+}
+.our-impact__img {display: inline-block;
+	vertical-align: top;
+	margin: -192px 0px 85px 0px;
+	width: 498px;
+
+}
+.our-impact__img img{
+	border-radius: 40px;
+
+}
+
+.item-block {display: inline-block;
+	width: 251px;
+}
+.item-block__icon {display: inline-block;
+	vertical-align: top;
+}
+.item-block__body {display: inline-block;
+	vertical-align: top;
+	padding: 4px 24px 0px 11px;
+}
+.item-block__title {
+font-size: 36px;
+line-height: 1.17;
+color: #FFFFFF;
+}
+.item-block__sub-title {
+font-size: 16px;
+line-height: 1.5;
+letter-spacing: 0.15px;
+color: #5D62B5;
+}
+
+/* ............................... */
+
+.our-promise {
+	padding: 50px;
+}
+.our-promise__title {
+font-size: 12px;
+line-height: 2;
+letter-spacing: 2.5px;
+text-transform: uppercase;
+color: #5D62B5;
+background: url("../img/icon_3/Overline\ Mark.svg") 0 0 no-repeat;
+padding: 0px 0px 0px 33px;
+margin: 0px 0px 33px 0px;
+max-width: 294px;
+
+
+}
+.our-promise__sub-title {
+font-size: 36px;
+line-height: 1.17;
+color: #000000;
+font-weight: 900;
+margin: 0px 0px 68px 0px;
+
+}
+
+.perspitiatis {display: inline-block;
+}
+.perspitiatis__img {display: inline-block;
+	vertical-align: top;
+	width: 63px;
+	height: 63px;
+}
+.perspitiatis__body {display: inline-block;
+	vertical-align: top;
+	padding: 0px 3px 1px 23px;
+width: 235px;
+}
+.perspitiatis__title {
+font-weight: 900;
+font-size: 19px;
+line-height: 1.37;
+color: #F2726F;
+margin: 0px 0px 20px 0px;
+
+}
+.perspitiatis__text {
+font-size: 16px;
+line-height: 1.5;
+letter-spacing: 0.15px;
+color: #4B4B4B;
+}
+
+.perspitiatis_margin{
+	margin-right: 27px;
+}
